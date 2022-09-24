@@ -1,4 +1,4 @@
-# Hi there, I'm Geovane - Backend Web developer 👋
+# Seja bem vindo meu caro !! Eu sou Geovane - Backend Web developer 👋🧐
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -6,17 +6,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Ievenes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  ![Snake animation](https://github.com/Geovane-Ievenes/Geovane-Ievenes/blob/output/github-contribution-grid-snake.svg)
+- 🔭 Atualmente estou trabalhando em **Continuar sempre aprendendo**
+- 🌱 Atualmente estou aprendendo **Nodejs**
+- 👯 Quero colaborar com **o melhor uso da tecnologia**
+- 🤔 Estou à procura **De um tech team**
+- 💬 Me pergunte sobre **"Qual seu instrumento musical preferido ?"**
+- 📫 Onde me encontrar: **Instagram**
+- ⚡ Curiosidade: **Sou saxofonista, e considero isso uma dádiva divina ✨**
 
-- 🔭 I’m currently working on **always keep lerning**
-- 🌱 I’m currently learning **Nodejs**
-- 👯 I’m looking to collaborate on **better usages for tecnology**
-- 🤔 I’m looking for help with **work in a tech team**
-- 💬 Ask me about **"What is your favorite musical instrument ?"**
-- 📫 How to reach me: **Instagram**
-- ⚡ Fun fact: **My head is exploding 🤯**
-
-## 🙋‍♂️ Social Media 🙋‍♂️
+## 🙋‍♂️ Onde me encontrar ? 🙋‍♂️
 
 <a href="https://www.instagram.com/geovaneievenes/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gmailn logo" title="Gmail" height="25" />
@@ -28,18 +26,17 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmailn logo" title="Gmail" height="25" />
 </a>
 
-## 👨‍💻 Languages 👨‍💻
+## 👨‍💻 Linguagens 👨‍💻
  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis)](https://skills.thijs.gg)
 
-## 🔧 Tools 🔧
+## 🔧 Ferramentas 🔧
 
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Icon" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode Icon"/>
 
 
-## 🗣 Idioms 🗣
+## 🗣 Idiomas 🗣
 
 * **Portuguese (Native)**
 * **English (intermediate)**
-
