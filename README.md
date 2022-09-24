@@ -7,6 +7,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Ievenes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+# Um pouco mais sobre mim ? Claro !
+
 - 🔭 Atualmente estou trabalhando em **Continuar sempre aprendendo**
 - 🌱 Atualmente estou aprendendo **Nodejs**
 - 👯 Quero colaborar com **o melhor uso da tecnologia**
