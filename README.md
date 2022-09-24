@@ -41,3 +41,5 @@
 * **Portuguese (Native)**
 * **English (intermediate)**
 
+  ![Snake animation](https://github.com/Geovane-Ievenes/Geovane-Ievenes/blob/output/github-contribution-grid-snake.svg)
+
