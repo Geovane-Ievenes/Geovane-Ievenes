@@ -1,4 +1,5 @@
-# Seja bem vindo meu caro !! Eu sou Geovane - Backend Web developer 👋🧐
+# 👋🧐 Olá meu caro ! - Me chamo Geovane, sou backend web developer e amante de tecnologia 
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -38,5 +39,5 @@
 
 ## 🗣 Idiomas 🗣
 
-* **Portuguese (Native)**
-* **English (intermediate)**
+* **Portuguese (Nativo)**
+* **English (intermediário)**
