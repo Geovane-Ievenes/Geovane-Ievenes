@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Ievenes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  ![Snake animation](https://github.com/Geovane-Ievenes/Geovane-Ievenes/blob/output/github-contribution-grid-snake.svg)
+
 - 🔭 I’m currently working on **always keep lerning**
 - 🌱 I’m currently learning **Nodejs**
 - 👯 I’m looking to collaborate on **better usages for tecnology**
@@ -40,6 +42,4 @@
 
 * **Portuguese (Native)**
 * **English (intermediate)**
-
-  ![Snake animation](https://github.com/Geovane-Ievenes/Geovane-Ievenes/blob/output/github-contribution-grid-snake.svg)
 
