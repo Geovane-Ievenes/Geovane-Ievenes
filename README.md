@@ -32,12 +32,9 @@
 
 ## 🔧 Tools 🔧
 
-<a>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Icon" />
-</a>
-<a>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode Icon" />
-</a>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode Icon"/>
+
 
 ## 🗣 Idioms 🗣
 
