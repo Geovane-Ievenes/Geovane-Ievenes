@@ -31,9 +31,12 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis)](https://skills.thijs.gg)
 
 ## 🔧 Tools 🔧
-
+<a>
 <img width="60px" src="./img/tools/ubuntu-icon.svg" alt="ReactJS Icon" />
+</a>
+<a>
 <img width="60px" src="./img/tools/vscode-icon.svg" alt="ReactJS Icon" />
+</a>
 
 ## 🗣 Idioms 🗣
 
