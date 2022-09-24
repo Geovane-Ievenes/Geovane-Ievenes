@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovane-Ievenes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-# Um pouco mais sobre mim ? Claro !
+# Um pouco sobre mim...
 
 - 🔭 Atualmente estou trabalhando em **Continuar sempre aprendendo**
 - 🌱 Atualmente estou aprendendo **Nodejs**
@@ -17,7 +17,7 @@
 - 📫 Onde me encontrar: **Instagram**
 - ⚡ Curiosidade: **Sou saxofonista, e considero isso uma dádiva divina ✨**
 
-## 🙋‍♂️ Onde me encontrar ? 🙋‍♂️
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis)](https://skills.thijs.gg)
 
 <a href="https://www.instagram.com/geovaneievenes/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gmailn logo" title="Gmail" height="25" />
@@ -29,17 +29,4 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmailn logo" title="Gmail" height="25" />
 </a>
 
-## 👨‍💻 Linguagens 👨‍💻
- 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis)](https://skills.thijs.gg)
-
-## 🔧 Ferramentas 🔧
-
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Icon" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode Icon"/>
-
-
-## 🗣 Idiomas 🗣
-
-* **Portuguese (Nativo)**
-* **English (intermediário)**
+![snake gif](https://github.com/Geovane-Ievenes/Geovane-Ievenes/blob/output/github-contribution-grid-snake.svg)
