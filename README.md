@@ -31,11 +31,12 @@
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis)](https://skills.thijs.gg)
 
 ## 🔧 Tools 🔧
+
 <a>
-<img width="60px" src="./img/tools/ubuntu-icon.svg" alt="ReactJS Icon" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian Icon" />
 </a>
 <a>
-<img width="60px" src="./img/tools/vscode-icon.svg" alt="ReactJS Icon" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Vscode Icon" />
 </a>
 
 ## 🗣 Idioms 🗣
