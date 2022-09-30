@@ -12,7 +12,7 @@
 - 🔭 Atualmente estou trabalhando em **Continuar sempre aprendendo**
 - 🌱 Atualmente estou aprendendo **Nodejs**
 - 👯 Quero colaborar com **o melhor uso da tecnologia**
-  - 🤔 Estou à procura **Primeira oportunidade para atuar na carreira dev**
+- 🤔 Estou à procura **Primeira oportunidade para atuar na carreira dev**
 - 📫 Onde me encontrar: **Instagram**
 - ⚡ Curiosidade: **Sou saxofonista, e considero isso uma dádiva divina ✨**
 
