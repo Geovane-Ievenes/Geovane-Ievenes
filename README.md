@@ -1,4 +1,4 @@
-# 👋🧐 Olá meu caro ! - Me chamo Geovane, sou backend web developer e amante de tecnologia 
+# 👋🧐 Olá meu caro ! - Me chamo Geovane, sou backend web developer 
 
 
 <div align="center">
