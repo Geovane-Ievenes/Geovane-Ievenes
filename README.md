@@ -13,7 +13,7 @@
 - 🌱 Atualmente estou aprendendo **Nodejs**
 - 👯 Quero colaborar com **o melhor uso da tecnologia**
 - 🤔 Estou à procura **Primeira oportunidade para atuar na carreira dev**
-- 📫 Onde me encontrar: **Instagram**
+- 📫 Onde me encontrar: **Instagram** e **LinkedIn**
 - ⚡ Curiosidade: **Sou saxofonista, e considero isso uma dádiva divina ✨**
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis)](https://skills.thijs.gg)
