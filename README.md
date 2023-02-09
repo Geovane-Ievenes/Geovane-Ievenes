@@ -16,7 +16,7 @@
 - 📫 Onde me encontrar: **Instagram** e **LinkedIn**
 - ⚡ Curiosidade: **Sou saxofonista, e considero isso uma dádiva divina ✨**
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis,powershell)](https://skills.thijs.gg)
 
 <a href="https://www.instagram.com/geovaneievenes/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gmailn logo" title="Gmail" height="25" />
