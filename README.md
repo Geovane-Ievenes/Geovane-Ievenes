@@ -1,4 +1,4 @@
-# 💻 Geovane - Backend web developer 🧐
+# 💻 Geovane - Backend Developer 🧐
 
 
 <div align="center">
