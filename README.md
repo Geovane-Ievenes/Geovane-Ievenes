@@ -10,9 +10,9 @@
 # Um pouco sobre mim...
 
 - 🔭 Atualmente estou trabalhando em **Continuar sempre aprendendo**
-- 🌱 Atualmente estou aprendendo **Nodejs**
+- 🌱 Atualmente estou aprendendo **Nodejs, Docker, Linux**
 - 👯 Quero colaborar com **o melhor uso da tecnologia**
-- 🤔 Estou à procura **Primeira oportunidade para atuar na carreira dev**
+- 🤔 Estou à procura **Primeira oportunidade para atuar na carreira como dev back-end, mas tenho uma pequena queda por DevOps :P**
 - 📫 Onde me encontrar: **Github** e **LinkedIn**
 - ⚡ Curiosidade: **Sou saxofonista, e considero isso uma dádiva divina ✨**
 
