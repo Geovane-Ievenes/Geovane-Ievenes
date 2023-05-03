@@ -18,9 +18,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,php,mongodb,mysql,redis,powershell,linux,docker)
 
-<a href="https://www.instagram.com/geovaneievenes/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gmailn logo" title="Gmail" height="25" />
-</a>
 <a href="https://www.linkedin.com/in/geovane-ievenes-1558321ab/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmailn logo" title="Gmail" height="25" />
 </a>
